@@ -1,0 +1,36 @@
+{
+  "founders": [
+    {
+      "name": "Anierin Bliss",
+      "role": "Co-Founder / Co-Developer",
+      "github": "anierinbliss"
+    },
+    {
+      "name": "Jose Antonio Huab (Joey)",
+      "role": "Founder / Lead Developer",
+      "github": "joeyhuab"
+    },
+    {
+      "name": "Akito Mizukito",
+      "role": "Co-Founder / Project Manager",
+      "github": "RealAkito"
+    }
+  ],
+  "teamMembers": [
+    {
+      "name": "Aidan Warner",
+      "role": "Maintainer Relations & Jenkins Admin",
+      "github": "AidanWarner97"
+    },
+    {
+      "name": "Hyde",
+      "role": "Community Relations",
+      "github": "hydeplaysofficial"
+    },
+    {
+      "name": "Onelots",
+      "role": "Maintainer & Community Relations",
+      "github": "Oneloutre"
+    }
+  ]
+}
