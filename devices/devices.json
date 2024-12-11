@@ -40,12 +40,18 @@
   "bonito": [
     "udc"
   ],
+  "caiman": [
+    "vic"
+  ],
   "cepheus": [
     "udc"
   ],
   "cheetah": [
     "udc",
     "udc-vanilla",
+    "vic"
+  ],
+  "comet": [
     "vic"
   ],
   "crosshatch": [
@@ -94,6 +100,9 @@
   ],
   "kebab": [
     "udc"
+  ],
+  "komodo": [
+    "vic"
   ],
   "lemonades": [
     "udc"
@@ -180,6 +189,9 @@
   ],
   "tissot": [
     "udc"
+  ],
+  "tokay": [
+    "vic"
   ],
   "vayu": [
     "udc",
