@@ -1,0 +1,228 @@
+{
+  "maintainers": [
+    {
+      "name": "ARIJIT SAHA",
+      "github": "arijit78",
+      "devices": [
+        "Xiaomi Redmi Note 12 5G/Poco X5 5G"
+      ]
+    },
+    {
+      "name": "Achille (0xSharkBoy)",
+      "github": "0xsharkboy",
+      "devices": [
+        "Samsung Galaxy F62",
+        "Samsung Galaxy Note 10",
+        "Samsung Galaxy Note 10 Plus",
+        "Samsung Galaxy Note 10 Plus 5G",
+        "Samsung Galaxy S10",
+        "Samsung Galaxy S10 5G",
+        "Samsung Galaxy S10 Plus",
+        "Samsung Galaxy S10e"
+      ]
+    },
+    {
+      "name": "AgBKartikey",
+      "github": "AgBKartikey",
+      "devices": [
+        "Nothing Phone 2"
+      ]
+    },
+    {
+      "name": "Aggelos Savvopoulos (DarkAngelGR)",
+      "github": "DarkAngelGR",
+      "devices": [
+        "OnePlus 11"
+      ]
+    },
+    {
+      "name": "Akshat Singh",
+      "github": "legendleo90",
+      "devices": [
+        "Nokia 6.1"
+      ]
+    },
+    {
+      "name": "Anierin Bliss",
+      "github": "AnierinBliss",
+      "devices": [
+        "Google Pixel 6",
+        "Google Pixel 6 Pro",
+        "Google Pixel 6a",
+        "Google Pixel 7",
+        "Google Pixel 7 Pro",
+        "Google Pixel 7a",
+        "Google Pixel 9 Pro Fold",
+        "Google Pixel Fold"
+      ]
+    },
+    {
+      "name": "Ashwani x Suvojeet Sengupta",
+      "github": "suvojit213",
+      "devices": [
+        "Xiaomi Redmi 12 5G / Poco M6 Pro 5G"
+      ]
+    },
+    {
+      "name": "CSSABLACK",
+      "github": "czarsuperstar",
+      "devices": [
+        "Xiaomi Mi 9 Lite"
+      ]
+    },
+    {
+      "name": "Chema Funtan",
+      "github": "chematelegram",
+      "devices": [
+        "Lenovo Z6 Pro",
+        "Xiaomi Mi 9",
+        "Xiaomi Mi 9t"
+      ]
+    },
+    {
+      "name": "Flakeforever",
+      "github": "flakeforever",
+      "devices": [
+        "Xiaomi POCO F5 Pro / Redmi K60"
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "devices": [
+        "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+        "Xiaomi POCO F5 / Redmi Note 12 Turbo",
+        "Xiaomi Xiaomi Mi 11",
+        "Xiaomi Xiaomi Mi A1"
+      ]
+    },
+    {
+      "name": "Le Hong Duc (tedomi2705)",
+      "github": "tedomi2705",
+      "devices": [
+        "Xiaomi Pocophone F1"
+      ]
+    },
+    {
+      "name": "Manidweep",
+      "github": "manidweep",
+      "devices": [
+        "Google Pixel 9",
+        "OnePlus 8",
+        "OnePlus 8 Pro",
+        "OnePlus 8T",
+        "OnePlus 9R"
+      ]
+    },
+    {
+      "name": "Nalinish Ranjan",
+      "github": "NRanjan-17",
+      "devices": [
+        "Xiaomi Redmi Note 4/4X"
+      ]
+    },
+    {
+      "name": "Omar Mohamed",
+      "github": "c0pt4n",
+      "devices": [
+        "Xiaomi Redmi Note 13 Pro 5G / POCO X6 5G"
+      ]
+    },
+    {
+      "name": "Onelots",
+      "github": "oneloutre",
+      "devices": [
+        "Google Pixel 3",
+        "Google Pixel 3 XL",
+        "Google Pixel 3a",
+        "Google Pixel 3a XL",
+        "Xiaomi Mi Mix 2S"
+      ]
+    },
+    {
+      "name": "Oscar Mariscal",
+      "github": "osm1019",
+      "devices": [
+        "Google Pixel 8",
+        "Google Pixel 8 Pro",
+        "Google Pixel 8a",
+        "Google Pixel 9 Pro",
+        "Google Pixel 9 Pro XL"
+      ]
+    },
+    {
+      "name": "Prathamk07",
+      "github": "Prathamk07",
+      "devices": [
+        "Xiaomi Redmi Note 11 Pro Plus 5G / Poco X4 Pro 5G"
+      ]
+    },
+    {
+      "name": "Priyanshu Jangid",
+      "github": "thepriyanshujangid",
+      "devices": [
+        "Xiaomi Poco X5 Pro / Redmi Note 12 Pro Speed"
+      ]
+    },
+    {
+      "name": "Rondeau79",
+      "github": "Rondeau79",
+      "devices": [
+        "Motorola Moto G100"
+      ]
+    },
+    {
+      "name": "Tejas Singh",
+      "github": "tejas101k",
+      "devices": [
+        "OnePlus 12R / Ace 3"
+      ]
+    },
+    {
+      "name": "Tejas Singh (tejas101k)",
+      "github": "tejas101k",
+      "devices": [
+        "OnePlus 12R / Ace 3",
+        "Xiaomi POCO X3 PRO",
+        "Xiaomi Redmi Note 8/8T"
+      ]
+    },
+    {
+      "name": "ZAID KHAN",
+      "github": "zaidkhan0997",
+      "devices": [
+        "Xiaomi 11 Lite NE 5G / Mi 11 LE",
+        "Xiaomi Redmi Note 10 Pro / Max"
+      ]
+    },
+    {
+      "name": "hiroshi. (Superuser)",
+      "github": "joshuah345",
+      "devices": [
+        "Xiaomi Redmi Note 12 Pro / Pro+ 5G / Discovery"
+      ]
+    },
+    {
+      "name": "kibria5",
+      "github": "kibria5",
+      "devices": [
+        "Xiaomi Redmi Note 13 4G/NFC",
+        "Xiaomi Redmi Note 7 Pro"
+      ]
+    },
+    {
+      "name": "lahaina",
+      "github": "nattolecats",
+      "devices": [
+        "Google Pixel 4a"
+      ]
+    },
+    {
+      "name": "yarpiin",
+      "github": "yarpiin",
+      "devices": [
+        "Xiaomi 12"
+      ]
+    }
+  ]
+}

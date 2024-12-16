@@ -1,0 +1,223 @@
+{
+  "PL2": [
+    "udc"
+  ],
+  "Pong": [
+    "udc",
+    "udc-vanilla"
+  ],
+  "akita": [
+    "udc",
+    "vic"
+  ],
+  "aston": [
+    "udc",
+    "udc-vanilla"
+  ],
+  "beryllium": [
+    "udc"
+  ],
+  "beyond0lte": [
+    "udc",
+    "vic"
+  ],
+  "beyond1lte": [
+    "udc",
+    "vic"
+  ],
+  "beyond2lte": [
+    "udc",
+    "vic"
+  ],
+  "beyondx": [
+    "udc",
+    "vic"
+  ],
+  "bluejay": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "blueline": [
+    "udc"
+  ],
+  "bonito": [
+    "udc"
+  ],
+  "caiman": [
+    "vic"
+  ],
+  "cepheus": [
+    "udc"
+  ],
+  "cheetah": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "comet": [
+    "vic"
+  ],
+  "crosshatch": [
+    "udc"
+  ],
+  "cupid": [
+    "udc",
+    "vic"
+  ],
+  "d1": [
+    "udc",
+    "vic"
+  ],
+  "d2s": [
+    "udc",
+    "vic"
+  ],
+  "d2x": [
+    "udc",
+    "vic"
+  ],
+  "davinci": [
+    "udc"
+  ],
+  "f62": [
+    "udc",
+    "vic"
+  ],
+  "felix": [
+    "udc"
+  ],
+  "garnet": [
+    "udc"
+  ],
+  "ginkgo": [
+    "udc",
+    "udc-vanilla",
+    "vic",
+    "vic-vanilla"
+  ],
+  "husky": [
+    "udc",
+    "vic"
+  ],
+  "instantnoodle": [
+    "udc"
+  ],
+  "instantnoodlep": [
+    "udc"
+  ],
+  "kebab": [
+    "udc"
+  ],
+  "komodo": [
+    "vic"
+  ],
+  "lemonades": [
+    "udc"
+  ],
+  "lisa": [
+    "udc"
+  ],
+  "lynx": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "marble": [
+    "udc"
+  ],
+  "mido": [
+    "udc"
+  ],
+  "mondrian": [
+    "udc",
+    "vic"
+  ],
+  "nio": [
+    "udc",
+    "vic"
+  ],
+  "oriole": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "panther": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "polaris": [
+    "udc"
+  ],
+  "pyxis": [
+    "udc"
+  ],
+  "raphael": [
+    "udc"
+  ],
+  "raven": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "redwood": [
+    "udc",
+    "vic"
+  ],
+  "rubyx": [
+    "udc"
+  ],
+  "salami": [
+    "udc"
+  ],
+  "sapphire": [
+    "udc"
+  ],
+  "sargo": [
+    "udc"
+  ],
+  "shiba": [
+    "udc",
+    "vic"
+  ],
+  "sky": [
+    "udc",
+    "udc-vanilla",
+    "vic"
+  ],
+  "stone": [
+    "udc"
+  ],
+  "sunfish": [
+    "udc"
+  ],
+  "sweet": [
+    "udc"
+  ],
+  "tissot": [
+    "udc"
+  ],
+  "tokay": [
+    "vic"
+  ],
+  "vayu": [
+    "udc",
+    "udc-vanilla",
+    "vic",
+    "vic-vanilla"
+  ],
+  "venus": [
+    "udc"
+  ],
+  "veux": [
+    "udc",
+    "udc-vanilla"
+  ],
+  "violet": [
+    "udc"
+  ],
+  "zippo": [
+    "udc"
+  ]
+}
