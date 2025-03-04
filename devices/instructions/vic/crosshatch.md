@@ -1,8 +1,10 @@
 ## THESE INSTRUCTIONS ASSUME YOUR DEVICE'S BOOTLOADER IS ALREADY UNLOCKED
 
-1. Download boot, rom for crosshatch from [here](https://sourceforge.net/projects/evolution-x/files/crosshatch/15/).
+1. Download dtbo, boot, rom for crosshatch from [here](https://sourceforge.net/projects/evolution-x/files/crosshatch/15/).
 2. Reboot to bootloader.
 3.
+```fastboot flash dtbo dtbo.img```
+
 ```fastboot flash boot boot.img```
 
 4. Reboot to recovery.
