@@ -110,7 +110,8 @@
   ],
   "garnet": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "ginkgo": [
     "udc",
@@ -185,6 +186,9 @@
   "panther": [
     "udc",
     "udc-vanilla",
+    "vic"
+  ],
+  "peridot": [
     "vic"
   ],
   "polaris": [
