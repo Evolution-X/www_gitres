@@ -215,6 +215,9 @@
     "udc",
     "vic"
   ],
+  "rtwo": [
+    "vic"
+  ],
   "rubyx": [
     "udc"
   ],
