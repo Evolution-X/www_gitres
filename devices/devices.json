@@ -170,6 +170,9 @@
     "udc",
     "vic"
   ],
+  "miatoll": [
+    "vic"
+  ],
   "mido": [
     "udc"
   ],
