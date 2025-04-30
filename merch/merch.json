@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hat",
+    "image": "hat",
+    "price": "Coming soon",
+    "link": "https://evolution-x.org/null"
+  },
+  {
+    "name": "T-Shirt",
+    "image": "tshirt",
+    "price": "Coming soon",
+    "link": "https://evolution-x.org/null"
+  },
+  {
+    "name": "long Sleeve",
+    "image": "long_sleeve",
+    "price": "Coming soon",
+    "link": "https://evolution-x.org/null"
+  },
+  {
+    "name": "Sweatshirt",
+    "image": "sweatshirt",
+    "price": "Coming soon",
+    "link": "https://evolution-x.org/null"
+  }
+]

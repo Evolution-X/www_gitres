@@ -1,0 +1,10 @@
+[
+  {
+    "version": "15",
+    "branches": ["vic", "vic-vanilla"]
+  },
+  {
+    "version": "14",
+    "branches": ["udc", "udc-vanilla"]
+  }
+]

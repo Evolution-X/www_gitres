@@ -1,0 +1,158 @@
+{
+  "maintainers": [
+    {
+      "name": "Achille (0xSharkBoy)",
+      "github": "0xsharkboy",
+      "devices": [
+        "Samsung Galaxy F62",
+        "Samsung Galaxy Note 10",
+        "Samsung Galaxy Note 10 Plus",
+        "Samsung Galaxy Note 10 Plus 5G",
+        "Samsung Galaxy S10",
+        "Samsung Galaxy S10 5G",
+        "Samsung Galaxy S10 Plus",
+        "Samsung Galaxy S10e"
+      ]
+    },
+    {
+      "name": "Anierin Bliss",
+      "github": "AnierinBliss",
+      "devices": [
+        "Google Pixel 6",
+        "Google Pixel 6 Pro",
+        "Google Pixel 6a",
+        "Google Pixel 7",
+        "Google Pixel 7 Pro",
+        "Google Pixel 7a",
+        "Google Pixel 9 Pro Fold",
+        "Google Pixel Fold",
+        "Google Pixel Tablet"
+      ]
+    },
+    {
+      "name": "CSSABLACK",
+      "github": "czarsuperstar",
+      "devices": [
+        "Xiaomi Mi 9 Lite"
+      ]
+    },
+    {
+      "name": "Flakeforever",
+      "github": "flakeforever",
+      "devices": [
+        "Xiaomi Poco F5 Pro / Redmi K60"
+      ]
+    },
+    {
+      "name": "Giovanni (TechPanelGM)",
+      "github": "TechPanelGM",
+      "devices": [
+        "Xiaomi Mi 10",
+        "Xiaomi Mi 10 Pro"
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "devices": [
+        "Xiaomi Mi 11",
+        "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+        "Xiaomi Mi A1",
+        "Xiaomi Poco F5 / Redmi Note 12 Turbo"
+      ]
+    },
+    {
+      "name": "Le Hong Duc (tedomi2705)",
+      "github": "tedomi2705",
+      "devices": [
+        "Xiaomi Pocophone F1"
+      ]
+    },
+    {
+      "name": "Manidweep",
+      "github": "manidweep",
+      "devices": [
+        "Google Pixel 9",
+        "OnePlus 8",
+        "OnePlus 8 Pro",
+        "OnePlus 8T",
+        "OnePlus 9R"
+      ]
+    },
+    {
+      "name": "Omar Mohamed",
+      "github": "c0pt4n",
+      "devices": [
+        "Xiaomi Redmi Note 13 Pro 5G / Poco X6 5G"
+      ]
+    },
+    {
+      "name": "Onelots",
+      "github": "onelots",
+      "devices": [
+        "Google Pixel 3",
+        "Google Pixel 3 XL",
+        "Google Pixel 3a",
+        "Google Pixel 3a XL",
+        "OnePlus 5",
+        "OnePlus 5T",
+        "OnePlus 7",
+        "OnePlus 7 Pro",
+        "OnePlus 7T",
+        "OnePlus 7T Pro",
+        "Xiaomi Mi A3",
+        "Xiaomi Mi Mix 2S",
+        "Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+        "Xiaomi Redmi 5 Plus"
+      ]
+    },
+    {
+      "name": "Oscar Mariscal",
+      "github": "osm1019",
+      "devices": [
+        "Google Pixel 8",
+        "Google Pixel 8 Pro",
+        "Google Pixel 8a",
+        "Google Pixel 9 Pro",
+        "Google Pixel 9 Pro XL",
+        "Motorola Moto Edge + 2023"
+      ]
+    },
+    {
+      "name": "Prathamk07",
+      "github": "Prathamk07",
+      "devices": [
+        "Xiaomi Redmi Note 11 Pro Plus 5G / Poco X4 Pro 5G"
+      ]
+    },
+    {
+      "name": "Priyanshu Jangid",
+      "github": "thepriyanshujangid",
+      "devices": [
+        "Xiaomi Poco X5 Pro / Redmi Note 12 Pro Speed"
+      ]
+    },
+    {
+      "name": "Rondeau79",
+      "github": "Rondeau79",
+      "devices": [
+        "Motorola Moto G100"
+      ]
+    },
+    {
+      "name": "Tejas Singh (tejas101k)",
+      "github": "tejas101k",
+      "devices": [
+        "Xiaomi Poco X3 Pro",
+        "Xiaomi Redmi Note 8/8T"
+      ]
+    },
+    {
+      "name": "yarpiin",
+      "github": "yarpiin",
+      "devices": [
+        "Xiaomi 12"
+      ]
+    }
+  ]
+}
