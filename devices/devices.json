@@ -359,6 +359,12 @@
     ]
   },
   {
+    "device": "pstar",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "device": "pyxis",
     "branches": [
       "udc",
