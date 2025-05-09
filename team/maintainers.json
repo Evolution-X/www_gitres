@@ -52,6 +52,13 @@
       ]
     },
     {
+      "name": "Hexdare",
+      "github": "Hexdare",
+      "devices": [
+        "Xiaomi Mi 11X Pro/Mi 11i/Redmi K40 Pro+"
+      ]
+    },
+    {
       "name": "Joey Huab",
       "github": "joeyhuab",
       "devices": [
@@ -72,7 +79,7 @@
       "name": "Lucifer",
       "github": "kaustuv90",
       "devices": [
-        "Xiaomi Xiaomi 12 Pro"
+        "Xiaomi 12 Pro"
       ]
     },
     {
