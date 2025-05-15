@@ -375,7 +375,8 @@
     "codename": "pyxis",
     "branches": [
       "udc",
-      "vic"
+      "vic",
+      "vic-vanilla"
     ]
   },
   {
