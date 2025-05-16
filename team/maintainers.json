@@ -269,12 +269,12 @@
           "codename": "scorpio"
         },
         {
-          "device": "Xiaomi Redmi 5 Plus",
-          "codename": "vince"
-        },
-        {
           "device": "Xiaomi Poco M2 Pro / Redmi Note 9S / Note 9 Pro /  Note 9 Pro Max / Note 10 Lite",
           "codename": "miatoll"
+        },
+        {
+          "device": "Xiaomi Redmi 5 Plus",
+          "codename": "vince"
         }
       ]
     },
@@ -379,6 +379,16 @@
       ]
     },
     {
+      "name": "nhansp",
+      "github": "nhansp",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 9",
+          "codename": "cepheus"
+        }
+      ]
+    },
+    {
       "name": "yarpiin",
       "github": "yarpiin",
       "currently_maintains": [
@@ -395,7 +405,7 @@
       "github": "AgBKartikey",
       "used_to_maintain": [
         {
-          "device": "Nothing Phone 2",
+          "device": "Nothing Phone (2)",
           "codename": "Pong"
         }
       ]
