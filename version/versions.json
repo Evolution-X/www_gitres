@@ -1,0 +1,20 @@
+[
+  {
+    "branch": "vic-vanilla",
+    "version": "15_vanilla",
+    "gapps_link": "https://github.com/MindTheGapps/15.0.0-arm64/releases/download/MindTheGapps-15.0.0-arm64-20250214_082511/MindTheGapps-15.0.0-arm64-20250214_082511.zip"
+  },
+  {
+    "branch": "vic",
+    "version": "15"
+  },
+  {
+    "branch": "udc-vanilla",
+    "version": "14_vanilla",
+    "gapps_link": "https://github.com/MindTheGapps/14.0.0-arm64/releases/download/MindTheGapps-14.0.0-arm64-20250203_200051/MindTheGapps-14.0.0-arm64-20250203_200051.zip"
+  },
+  {
+    "branch": "udc",
+    "version": "14"
+  }
+]

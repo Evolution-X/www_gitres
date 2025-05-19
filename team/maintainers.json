@@ -1,0 +1,532 @@
+{
+  "active_maintainers": [
+    {
+      "name": "Achille (0xSharkBoy)",
+      "github": "0xsharkboy",
+      "currently_maintains": [
+        {
+          "device": "Samsung Galaxy F62",
+          "codename": "f62"
+        },
+        {
+          "device": "Samsung Galaxy Note 10",
+          "codename": "d1"
+        },
+        {
+          "device": "Samsung Galaxy Note 10 Plus",
+          "codename": "d2s"
+        },
+        {
+          "device": "Samsung Galaxy Note 10 Plus 5G",
+          "codename": "d2x"
+        },
+        {
+          "device": "Samsung Galaxy S10",
+          "codename": "beyond1lte"
+        },
+        {
+          "device": "Samsung Galaxy S10 5G",
+          "codename": "beyondx"
+        },
+        {
+          "device": "Samsung Galaxy S10 Plus",
+          "codename": "beyond2lte"
+        },
+        {
+          "device": "Samsung Galaxy S10e",
+          "codename": "beyond0lte"
+        }
+      ]
+    },
+    {
+      "name": "Anierin Bliss",
+      "github": "AnierinBliss",
+      "currently_maintains": [
+        {
+          "device": "Google Pixel 6",
+          "codename": "oriole"
+        },
+        {
+          "device": "Google Pixel 6 Pro",
+          "codename": "raven"
+        },
+        {
+          "device": "Google Pixel 6a",
+          "codename": "bluejay"
+        },
+        {
+          "device": "Google Pixel 7",
+          "codename": "panther"
+        },
+        {
+          "device": "Google Pixel 7 Pro",
+          "codename": "cheetah"
+        },
+        {
+          "device": "Google Pixel 7a",
+          "codename": "lynx"
+        },
+        {
+          "device": "Google Pixel 9 Pro Fold",
+          "codename": "comet"
+        },
+        {
+          "device": "Google Pixel Fold",
+          "codename": "felix"
+        },
+        {
+          "device": "Google Pixel Tablet",
+          "codename": "tangorpro"
+        }
+      ]
+    },
+    {
+      "name": "BaranAspect",
+      "github": "AspectPower",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 12 4G",
+          "codename": "topaz"
+        }
+      ]
+    },
+    {
+      "name": "CSSABLACK",
+      "github": "czarsuperstar",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 9 Lite",
+          "codename": "pyxis"
+        }
+      ]
+    },
+    {
+      "name": "Deivid Ignacio Parra (Deivid21)",
+      "github": "Deivid21",
+      "currently_maintains": [
+        {
+          "device": "Motorola Moto G7",
+          "codename": "river"
+        },
+        {
+          "device": "Motorola Moto G7 Play",
+          "codename": "channel"
+        },
+        {
+          "device": "Motorola Moto G7 Power",
+          "codename": "ocean"
+        }
+      ]
+    },
+    {
+      "name": "Flakeforever",
+      "github": "flakeforever",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Poco F5 Pro / Redmi K60",
+          "codename": "mondrian"
+        }
+      ]
+    },
+    {
+      "name": "Giovanni (TechPanelGM)",
+      "github": "TechPanelGM",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 10",
+          "codename": "umi"
+        },
+        {
+          "device": "Xiaomi Mi 10 Pro",
+          "codename": "cmi"
+        }
+      ]
+    },
+    {
+      "name": "Hexdare",
+      "github": "Hexdare",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 11X Pro/Mi 11i/Redmi K40 Pro+",
+          "codename": "haydn"
+        }
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 11",
+          "codename": "venus"
+        },
+        {
+          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+          "codename": "raphael"
+        },
+        {
+          "device": "Xiaomi Mi A1",
+          "codename": "tissot"
+        },
+        {
+          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
+          "codename": "marble"
+        }
+      ]
+    },
+    {
+      "name": "Le Hong Duc (tedomi2705)",
+      "github": "tedomi2705",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Pocophone F1",
+          "codename": "beryllium"
+        }
+      ]
+    },
+    {
+      "name": "Lucifer",
+      "github": "kaustuv90",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi 12 Pro",
+          "codename": "zeus"
+        }
+      ]
+    },
+    {
+      "name": "Manidweep",
+      "github": "manidweep",
+      "currently_maintains": [
+        {
+          "device": "Google Pixel 9",
+          "codename": "tokay"
+        },
+        {
+          "device": "OnePlus 8",
+          "codename": "instantnoodle"
+        },
+        {
+          "device": "OnePlus 8 Pro",
+          "codename": "instantnoodlep"
+        },
+        {
+          "device": "OnePlus 8T",
+          "codename": "kebab"
+        },
+        {
+          "device": "OnePlus 9R",
+          "codename": "lemonades"
+        }
+      ]
+    },
+    {
+      "name": "Nalinish Ranjan",
+      "github": "NRanjan-17",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 4/4X",
+          "codename": "mido"
+        }
+      ]
+    },
+    {
+      "name": "Omar Mohamed",
+      "github": "c0pt4n",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 13 Pro 5G / Poco X6 5G",
+          "codename": "garnet"
+        }
+      ]
+    },
+    {
+      "name": "Onelots",
+      "github": "onelots",
+      "currently_maintains": [
+        {
+          "device": "Google Pixel 3",
+          "codename": "blueline"
+        },
+        {
+          "device": "Google Pixel 3 XL",
+          "codename": "crosshatch"
+        },
+        {
+          "device": "Google Pixel 3a",
+          "codename": "sargo"
+        },
+        {
+          "device": "Google Pixel 3a XL",
+          "codename": "bonito"
+        },
+        {
+          "device": "OnePlus 5",
+          "codename": "cheeseburger"
+        },
+        {
+          "device": "OnePlus 5T",
+          "codename": "dumpling"
+        },
+        {
+          "device": "OnePlus 7",
+          "codename": "guacamoleb"
+        },
+        {
+          "device": "OnePlus 7 Pro",
+          "codename": "guacamole"
+        },
+        {
+          "device": "OnePlus 7T",
+          "codename": "hotdogb"
+        },
+        {
+          "device": "OnePlus 7T Pro",
+          "codename": "hotdog"
+        },
+        {
+          "device": "Xiaomi Mi A3",
+          "codename": "laurel_sprout"
+        },
+        {
+          "device": "Xiaomi Mi Mix 2S",
+          "codename": "polaris"
+        },
+        {
+          "device": "Xiaomi Mi Note 2",
+          "codename": "scorpio"
+        },
+        {
+          "device": "Xiaomi Poco M2 Pro / Redmi Note 9S / Note 9 Pro /  Note 9 Pro Max / Note 10 Lite",
+          "codename": "miatoll"
+        },
+        {
+          "device": "Xiaomi Redmi 5 Plus",
+          "codename": "vince"
+        }
+      ]
+    },
+    {
+      "name": "Oscar Mariscal",
+      "github": "osm1019",
+      "currently_maintains": [
+        {
+          "device": "Google Pixel 8",
+          "codename": "shiba"
+        },
+        {
+          "device": "Google Pixel 8 Pro",
+          "codename": "husky"
+        },
+        {
+          "device": "Google Pixel 8a",
+          "codename": "akita"
+        },
+        {
+          "device": "Google Pixel 9 Pro",
+          "codename": "caiman"
+        },
+        {
+          "device": "Google Pixel 9 Pro XL",
+          "codename": "komodo"
+        },
+        {
+          "device": "Motorola Moto Edge + 2023",
+          "codename": "rtwo"
+        }
+      ]
+    },
+    {
+      "name": "Prathamk07",
+      "github": "Prathamk07",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 11 Pro Plus 5G / Poco X4 Pro 5G",
+          "codename": "veux"
+        }
+      ]
+    },
+    {
+      "name": "Priyanshu Jangid",
+      "github": "thepriyanshujangid",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Poco X5 Pro / Redmi Note 12 Pro Speed",
+          "codename": "redwood"
+        }
+      ]
+    },
+    {
+      "name": "Rondeau79",
+      "github": "Rondeau79",
+      "currently_maintains": [
+        {
+          "device": "Motorola Edge 20 Pro",
+          "codename": "pstar"
+        },
+        {
+          "device": "Motorola Moto G100",
+          "codename": "nio"
+        }
+      ]
+    },
+    {
+      "name": "Tejas Singh (tejas101k)",
+      "github": "tejas101k",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Poco X3 Pro",
+          "codename": "vayu"
+        },
+        {
+          "device": "Xiaomi Redmi Note 8/8T",
+          "codename": "ginkgo"
+        }
+      ],
+      "used_to_maintain": [
+        {
+          "device": "OnePlus 12R / Ace 3",
+          "codename": "aston"
+        }
+      ]
+    },
+    {
+      "name": "hiroshi. (Superuser)",
+      "github": "joshuah345",
+      "currently_maintains": [
+        {
+          "device": "Nothing Phone (2)",
+          "codename": "Pong"
+        }
+      ],
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Redmi Note 12 Pro / Pro+ 5G / Discovery",
+          "codename": "rubyx"
+        }
+      ]
+    },
+    {
+      "name": "nhansp",
+      "github": "nhansp",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 9",
+          "codename": "cepheus"
+        }
+      ]
+    },
+    {
+      "name": "yarpiin",
+      "github": "yarpiin",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi 12",
+          "codename": "cupid"
+        }
+      ]
+    }
+  ],
+  "inactive_maintainers": [
+    {
+      "name": "AgBKartikey",
+      "github": "AgBKartikey",
+      "used_to_maintain": [
+        {
+          "device": "Nothing Phone (2)",
+          "codename": "Pong"
+        }
+      ]
+    },
+    {
+      "name": "Aggelos Savvopoulos (DarkAngelGR)",
+      "github": "DarkAngelGR",
+      "used_to_maintain": [
+        {
+          "device": "OnePlus 11",
+          "codename": "salami"
+        }
+      ]
+    },
+    {
+      "name": "Akshat Singh",
+      "github": "legendleo90",
+      "used_to_maintain": [
+        {
+          "device": "Nokia 6.1",
+          "codename": "PL2"
+        }
+      ]
+    },
+    {
+      "name": "Ashwani x Suvojeet Sengupta",
+      "github": "suvojit213",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Redmi 12 5G / Poco M6 Pro 5G",
+          "codename": "sky"
+        }
+      ]
+    },
+    {
+      "name": "Chema Funtan",
+      "github": "chematelegram",
+      "used_to_maintain": [
+        {
+          "device": "Lenovo Z6 Pro",
+          "codename": "zippo"
+        },
+        {
+          "device": "Xiaomi Mi 9",
+          "codename": "cepheus"
+        },
+        {
+          "device": "Xiaomi Mi 9t",
+          "codename": "davinci"
+        }
+      ]
+    },
+    {
+      "name": "Mohammad Kibria",
+      "github": "kibria5",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Redmi Note 13 4G/NFC",
+          "codename": "sapphire"
+        },
+        {
+          "device": "Xiaomi Redmi Note 7 Pro",
+          "codename": "violet"
+        },
+        {
+          "device": "Xiaomi Redmi Turbo 3 / Poco F6",
+          "codename": "peridot"
+        }
+      ]
+    },
+    {
+      "name": "ZAID KHAN",
+      "github": "zaidkhan0997",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi 11 Lite NE 5G / Mi 11 LE",
+          "codename": "lisa"
+        },
+        {
+          "device": "Xiaomi Redmi Note 10 Pro / Max",
+          "codename": "sweet"
+        }
+      ]
+    },
+    {
+      "name": "lahaina",
+      "github": "nattolecats",
+      "used_to_maintain": [
+        {
+          "device": "Google Pixel 4a",
+          "codename": "sunfish"
+        }
+      ]
+    }
+  ]
+}
