@@ -115,6 +115,14 @@
         {
           "device": "Motorola Moto G7 Power",
           "codename": "ocean"
+        },
+        {
+          "device": "Motorola One Action",
+          "codename": "troika"
+        },
+        {
+          "device": "Motorola One Vision",
+          "codename": "kane"
         }
       ]
     },
