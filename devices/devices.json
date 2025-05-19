@@ -268,6 +268,12 @@
     ]
   },
   {
+    "codename": "kane",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "kebab",
     "branches": [
       "vic",
@@ -509,6 +515,12 @@
   },
   {
     "codename": "topaz",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "troika",
     "branches": [
       "vic"
     ]
