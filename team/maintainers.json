@@ -105,6 +105,10 @@
       "github": "Deivid21",
       "currently_maintains": [
         {
+          "device": "Motorola Moto G6 Plus",
+          "codename": "evert"
+        },
+        {
           "device": "Motorola Moto G7",
           "codename": "river"
         },
@@ -113,8 +117,16 @@
           "codename": "channel"
         },
         {
+          "device": "Motorola Moto G7 Plus",
+          "codename": "lake"
+        },
+        {
           "device": "Motorola Moto G7 Power",
           "codename": "ocean"
+        },
+        {
+          "device": "Motorola Moto Z3 Play",
+          "codename": "beckham"
         },
         {
           "device": "Motorola One Action",
