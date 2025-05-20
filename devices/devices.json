@@ -28,6 +28,12 @@
     ]
   },
   {
+    "codename": "beckham",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "beryllium",
     "branches": [
       "vic",
@@ -185,6 +191,12 @@
     ]
   },
   {
+    "codename": "evert",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "f62",
     "branches": [
       "vic-vanilla",
@@ -282,6 +294,12 @@
   },
   {
     "codename": "komodo",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "lake",
     "branches": [
       "vic"
     ]
