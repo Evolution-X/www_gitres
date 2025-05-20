@@ -9,8 +9,8 @@
     "codename": "Pong",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -23,8 +23,8 @@
   {
     "codename": "aston",
     "branches": [
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -43,32 +43,32 @@
   {
     "codename": "beyond0lte",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
   {
     "codename": "beyond1lte",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
   {
     "codename": "beyond2lte",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
   {
     "codename": "beyondx",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
@@ -76,8 +76,8 @@
     "codename": "bluejay",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -123,15 +123,15 @@
     "codename": "cheetah",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
     "codename": "cmi",
     "branches": [
-      "vic-vanilla",
-      "vic"
+      "vic",
+      "vic-vanilla"
     ]
   },
   {
@@ -157,24 +157,24 @@
   {
     "codename": "d1",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
   {
     "codename": "d2s",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
   {
     "codename": "d2x",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
@@ -199,8 +199,8 @@
   {
     "codename": "f62",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
@@ -214,18 +214,18 @@
   {
     "codename": "garnet",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
   {
     "codename": "ginkgo",
     "branches": [
-      "vic-vanilla",
       "vic",
-      "udc-vanilla",
-      "udc"
+      "vic-vanilla",
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -328,8 +328,8 @@
     "codename": "lynx",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -376,16 +376,16 @@
     "codename": "oriole",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
     "codename": "panther",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -410,8 +410,8 @@
   {
     "codename": "pyxis",
     "branches": [
-      "vic-vanilla",
       "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
@@ -426,8 +426,8 @@
     "codename": "raven",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -491,8 +491,8 @@
     "codename": "sky",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -546,17 +546,17 @@
   {
     "codename": "umi",
     "branches": [
-      "vic-vanilla",
-      "vic"
+      "vic",
+      "vic-vanilla"
     ]
   },
   {
     "codename": "vayu",
     "branches": [
-      "vic-vanilla",
       "vic",
-      "udc-vanilla",
-      "udc"
+      "vic-vanilla",
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
@@ -570,8 +570,8 @@
     "codename": "veux",
     "branches": [
       "vic",
-      "udc-vanilla",
-      "udc"
+      "udc",
+      "udc-vanilla"
     ]
   },
   {
