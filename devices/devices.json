@@ -16,8 +16,7 @@
   {
     "codename": "akita",
     "branches": [
-      "vic",
-      "udc"
+      "vic"
     ]
   },
   {
@@ -75,9 +74,7 @@
   {
     "codename": "bluejay",
     "branches": [
-      "vic",
-      "udc",
-      "udc-vanilla"
+      "vic"
     ]
   },
   {
@@ -122,9 +119,7 @@
   {
     "codename": "cheetah",
     "branches": [
-      "vic",
-      "udc",
-      "udc-vanilla"
+      "vic"
     ]
   },
   {
@@ -207,8 +202,7 @@
   {
     "codename": "felix",
     "branches": [
-      "vic",
-      "udc"
+      "vic"
     ]
   },
   {
@@ -261,8 +255,7 @@
   {
     "codename": "husky",
     "branches": [
-      "vic",
-      "udc"
+      "vic"
     ]
   },
   {
@@ -327,9 +320,7 @@
   {
     "codename": "lynx",
     "branches": [
-      "vic",
-      "udc",
-      "udc-vanilla"
+      "vic"
     ]
   },
   {
@@ -375,17 +366,13 @@
   {
     "codename": "oriole",
     "branches": [
-      "vic",
-      "udc",
-      "udc-vanilla"
+      "vic"
     ]
   },
   {
     "codename": "panther",
     "branches": [
-      "vic",
-      "udc",
-      "udc-vanilla"
+      "vic"
     ]
   },
   {
@@ -425,9 +412,7 @@
   {
     "codename": "raven",
     "branches": [
-      "vic",
-      "udc",
-      "udc-vanilla"
+      "vic"
     ]
   },
   {
@@ -483,8 +468,7 @@
   {
     "codename": "shiba",
     "branches": [
-      "vic",
-      "udc"
+      "vic"
     ]
   },
   {
