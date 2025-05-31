@@ -39,6 +39,16 @@
       ]
     },
     {
+      "name": "Aeron (aeronruless)",
+      "github": "Aeron-Aeron",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 12 Pro/ Pro+ 5G / Discovery Edition",
+          "codename": "rubyx"
+        }
+      ]
+    },
+    {
       "name": "Anierin Bliss",
       "github": "AnierinBliss",
       "currently_maintains": [
