@@ -437,6 +437,7 @@
   {
     "codename": "rubyx",
     "branches": [
+      "vic",
       "udc"
     ]
   },
