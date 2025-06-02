@@ -43,7 +43,7 @@
       "github": "Aeron-Aeron",
       "currently_maintains": [
         {
-          "device": "Xiaomi Redmi Note 12 Pro/ Pro+ 5G / Discovery Edition",
+          "device": "Xiaomi Redmi Note 12 Pro / Note 12 Pro+ 5G / Note 12 Pro Discovery Edition",
           "codename": "rubyx"
         }
       ]
@@ -115,6 +115,38 @@
       "github": "Deivid21",
       "currently_maintains": [
         {
+          "device": "Motorola Defy 2021",
+          "codename": "bathena"
+        },
+        {
+          "device": "Motorola Moto E7 Plus & Lenovo K12",
+          "codename": "guam"
+        },
+        {
+          "device": "Motorola Moto G Power 2021",
+          "codename": "borneo"
+        },
+        {
+          "device": "Motorola Moto G10 & G10 Power / Lenovo K13 Note",
+          "codename": "capri"
+        },
+        {
+          "device": "Motorola Moto G30 / Lenovo K13 Pro",
+          "codename": "caprip"
+        },
+        {
+          "device": "Motorola Moto G32",
+          "codename": "devon"
+        },
+        {
+          "device": "Motorola Moto G42",
+          "codename": "hawao"
+        },
+        {
+          "device": "Motorola Moto G52",
+          "codename": "rhode"
+        },
+        {
           "device": "Motorola Moto G6 Plus",
           "codename": "evert"
         },
@@ -133,6 +165,14 @@
         {
           "device": "Motorola Moto G7 Power",
           "codename": "ocean"
+        },
+        {
+          "device": "Motorola Moto G9 & G9 Play / Lenovo K12 Note",
+          "codename": "guamp"
+        },
+        {
+          "device": "Motorola Moto G9 Power / Lenovo K12 Pro",
+          "codename": "cebu"
         },
         {
           "device": "Motorola Moto Z3 Play",
