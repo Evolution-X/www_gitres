@@ -27,6 +27,12 @@
     ]
   },
   {
+    "codename": "bathena",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "beckham",
     "branches": [
       "vic"
@@ -92,7 +98,31 @@
     ]
   },
   {
+    "codename": "borneo",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "caiman",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "capri",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "caprip",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "cebu",
     "branches": [
       "vic"
     ]
@@ -180,6 +210,12 @@
     ]
   },
   {
+    "codename": "devon",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "dumpling",
     "branches": [
       "vic"
@@ -230,6 +266,24 @@
   },
   {
     "codename": "guacamoleb",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "guam",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "guamp",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "hawao",
     "branches": [
       "vic"
     ]
@@ -420,6 +474,12 @@
     "branches": [
       "vic",
       "udc"
+    ]
+  },
+  {
+    "codename": "rhode",
+    "branches": [
+      "vic"
     ]
   },
   {
