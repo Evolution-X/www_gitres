@@ -259,6 +259,18 @@
     ]
   },
   {
+    "codename": "gta4xl",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "gta4xlwifi",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "guacamole",
     "branches": [
       "vic"
