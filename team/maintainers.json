@@ -119,7 +119,7 @@
           "codename": "bathena"
         },
         {
-          "device": "Motorola Moto E7 Plus & Lenovo K12",
+          "device": "Motorola Moto E7 Plus / Lenovo K12",
           "codename": "guam"
         },
         {
@@ -483,6 +483,20 @@
         {
           "device": "Xiaomi Mi 9",
           "codename": "cepheus"
+        }
+      ]
+    },
+    {
+      "name": "objecting_",
+      "github": "techyguyperplexable",
+      "currently_maintains": [
+        {
+          "device": "Samsung Galaxy Tab S6 Lite",
+          "codename": "gta4xl"
+        },
+        {
+          "device": "Samsung Galaxy Tab S6 Lite",
+          "codename": "gta4xlwifi"
         }
       ]
     },
