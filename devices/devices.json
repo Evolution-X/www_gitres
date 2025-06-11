@@ -216,6 +216,12 @@
     ]
   },
   {
+    "codename": "dubai",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "dumpling",
     "branches": [
       "vic"
@@ -642,6 +648,12 @@
     "codename": "violet",
     "branches": [
       "udc"
+    ]
+  },
+  {
+    "codename": "xpeng",
+    "branches": [
+      "vic"
     ]
   },
   {
