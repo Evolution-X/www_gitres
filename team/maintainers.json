@@ -119,6 +119,10 @@
           "codename": "bathena"
         },
         {
+          "device": "Motorola Edge 30",
+          "codename": "dubai"
+        },
+        {
           "device": "Motorola Moto E7 Plus / Lenovo K12",
           "codename": "guam"
         },
@@ -129,6 +133,10 @@
         {
           "device": "Motorola Moto G10 & G10 Power / Lenovo K13 Note",
           "codename": "capri"
+        },
+        {
+          "device": "Motorola Moto G200 5G / Edge S30",
+          "codename": "xpeng"
         },
         {
           "device": "Motorola Moto G30 / Lenovo K13 Pro",
