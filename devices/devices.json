@@ -425,6 +425,12 @@
     ]
   },
   {
+    "codename": "monet",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "nio",
     "branches": [
       "vic",
