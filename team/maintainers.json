@@ -215,6 +215,10 @@
           "codename": "umi"
         },
         {
+          "device": "Xiaomi Mi 10 Lite",
+          "codename": "monet"
+        },
+        {
           "device": "Xiaomi Mi 10 Pro",
           "codename": "cmi"
         }
