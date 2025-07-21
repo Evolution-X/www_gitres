@@ -267,6 +267,7 @@
   {
     "codename": "gta4xl",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -485,6 +486,7 @@
   {
     "codename": "raphael",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
