@@ -617,6 +617,12 @@
     ]
   },
   {
+    "codename": "tundra",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "umi",
     "branches": [
       "vic",
