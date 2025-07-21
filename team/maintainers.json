@@ -123,6 +123,10 @@
           "codename": "dubai"
         },
         {
+          "device": "Motorola Edge 30 Fusion / Edge S30 Pro",
+          "codename": "tundra"
+        },
+        {
           "device": "Motorola Moto E7 Plus / Lenovo K12",
           "codename": "guam"
         },
