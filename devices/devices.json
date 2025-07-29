@@ -16,6 +16,7 @@
   {
     "codename": "akita",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -80,6 +81,7 @@
   {
     "codename": "bluejay",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -106,6 +108,7 @@
   {
     "codename": "caiman",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -149,6 +152,7 @@
   {
     "codename": "cheetah",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -162,6 +166,7 @@
   {
     "codename": "comet",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -244,6 +249,7 @@
   {
     "codename": "felix",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -274,6 +280,7 @@
   {
     "codename": "gta4xlwifi",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -310,6 +317,7 @@
   {
     "codename": "haydn",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -328,6 +336,7 @@
   {
     "codename": "husky",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -361,6 +370,7 @@
   {
     "codename": "komodo",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -447,12 +457,14 @@
   {
     "codename": "oriole",
     "branches": [
+      "bka",
       "vic"
     ]
   },
   {
     "codename": "panther",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -494,6 +506,7 @@
   {
     "codename": "raven",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -557,6 +570,7 @@
   {
     "codename": "shiba",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -601,6 +615,7 @@
   {
     "codename": "tokay",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -612,6 +627,12 @@
   },
   {
     "codename": "troika",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "tundra",
     "branches": [
       "vic"
     ]
