@@ -1,0 +1,66 @@
+[CENTER]
+${manufacturer_name} ${device_name}
+${codenames}
+
+[IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/${banner_image}[/IMG]
+
+[SIZE=5][B][COLOR=#0060FF][B]Pixel UI, customization and more, we are Evolution X![/B][/COLOR][/B][/SIZE]
+
+[URL='https://xdaforums.com/m/joeyhuab.4936496/']Joey Huab[/URL] - Founder/Lead Developer
+[URL='https://xdaforums.com/m/anierinb.7125966/']Anierin Bliss[/URL] - Co-Founder/Co-Developer
+[URL='https://xdaforums.com/m/realakito.9008281/']Akito Mizukito[/URL] - Co-Founder/Project Manager
+
+Check out our [URL='https://evolution-x.org/']website[/URL]!
+
+[IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/features.png[/IMG]
+
+[URL='https://evolution-x.org/features']Added features[/URL]
+
+[IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/known_issues.png[/IMG]
+
+[SIZE=5][B][COLOR=red]DO NOT FLASH GAPPS, THEY ARE ALREADY INCLUDED[/COLOR][/B][/SIZE]
+
+[B][IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/installation.png[/IMG][/B]
+
+[SIZE=5][B][COLOR=rgb(0, 96, 255)][SIZE=5][B]First Time Install[/B][/SIZE][/COLOR][/B][/SIZE]
+${first_time_install_instructions}
+
+[SIZE=5][B][COLOR=rgb(0, 96, 255)]Update[/COLOR][/B][/SIZE]
+[SIZE=3]1. Reboot to recovery
+2. While in recovery, navigate to [B]Apply update[/B] → [B]Apply from ADB[/B]
+3. [ICODE]adb sideload rom.zip[/ICODE] (replace "rom" with  actual filename)[/SIZE]
+4 (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
+[SIZE=3]5. Reboot to system & #KeepEvolving
+
+[COLOR=rgb(0, 96, 255)][SIZE=5][B]OTA[/B][/SIZE][/COLOR][/SIZE]
+[SIZE=3]1. Check for update. If available, select "Download and install" (approx 10-15 min)
+2. Reboot & #KeepEvolving[/SIZE]
+
+[URL='${donation_url}'][IMG width="200px" height="180px"]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/donate_to_me.png[/IMG][/URL][URL='https://discord.gg/3qbSZHx'][IMG width="200px" height="180px"]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/official_chat.png[/IMG][/URL]
+
+[TABLE]
+[TR]
+[TD][IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/source.png[/IMG][/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(97, 189, 109)]Android version[/COLOR]:[/B] [URL='${tree_url}']${android_version}[/URL][/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(184, 49, 47)]Security patch level[/COLOR]:[/B] [URL='${security_patch_url}']${security_patch_level_date}[/URL][/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(41, 105, 176)]Build author[/COLOR]:[/B] [URL='${xda_profile_url}']${maintainer_name}[/URL][/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(65, 168, 95)]Kernel Source[/COLOR]:[/B]
+${kernel_source_url}
+[/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(41, 105, 176)]ROM Developer[/COLOR]:[/B] [URL='https://xdaforums.com/member.php?u=4936496']Joey Huab[/URL] & [URL='https://xdaforums.com/m/anierinb.7125966/']Anierin Bliss[/URL][/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(97, 189, 109)]Source code[/COLOR]:[/B] [URL]https://github.com/Evolution-X[/URL][/TD]
+[/TR]
+[/TABLE]
+[/CENTER]

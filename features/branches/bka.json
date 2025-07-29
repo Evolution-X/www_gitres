@@ -40,6 +40,7 @@
             "Interface": {
                 "Media cover art": "Display media cover art when available",
                 "Charging stats": "Display current, voltage, wattage, and temperature stats while charging",
+                "Pulse": "Audio graphic equalizer for navigation bar and lock screen",
                 "Carrier name on lock screen": "Display carrier name on lock screen status bar"
             },
             "Fingerprint": {
@@ -88,7 +89,7 @@
                 "Battery percent": "Set quicksettings battery percent location"
             },
             "Lock screen": {
-                "Swipe down QS on secure lock screen": "Enable or disable quicksettings on lockscreen"
+                "Swipe down on LS to view QS": "Enable or disable quicksettings on lockscreen"
             },
             "Miscellaneous": {
                 "Bluetooth tile dialog": "Show bluetooth dialog or toggle bluetooth state on tapping bluetooth tile"
@@ -135,7 +136,7 @@
                 "No storage restrict": "Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.",
                 "Ignore wallpaper dimming requests": "Blocks all apps from setting the wallpaper dim",
                 "Unlimit screenrecord": "Remove the 15GiB file size limit",
-                "Hide screen capture status": "Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.",
+                "Hide screen capture status": "Hide screen capture/record status from apps. Useful but may risk privacy. Restart apps to apply.",
                 "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss",
                 "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks"
             }

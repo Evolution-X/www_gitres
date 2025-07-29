@@ -1,7 +1,7 @@
 [
   {
     "name": "Aidan Warner",
-    "role": "Maintainer Relations & Jenkins Admin",
+    "role": "Automation Manager",
     "github": "AidanWarner97"
   },
   {
@@ -11,17 +11,7 @@
   },
   {
     "name": "Onelots",
-    "role": "Maintainer & Community Relations",
+    "role": "Maintainer/Community Relations",
     "github": "Onelots"
-  },
-  {
-    "name": "Manidweep",
-    "role": "Maintainer Relations",
-    "github": "manidweep"
-  },
-  {
-    "name": "Oscar Mariscal",
-    "role": "Lead Tensor Pixel Developer",
-    "github": "osm1019"
   }
 ]

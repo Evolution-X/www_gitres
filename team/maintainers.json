@@ -43,7 +43,7 @@
       "github": "Aeron-Aeron",
       "currently_maintains": [
         {
-          "device": "Xiaomi Redmi Note 12 Pro / Note 12 Pro+ 5G / Note 12 Pro Discovery Edition",
+          "device": "Xiaomi Redmi Note 12 Pro / Pro+ 5G / Discovery",
           "codename": "rubyx"
         }
       ]
@@ -121,6 +121,10 @@
         {
           "device": "Motorola Edge 30",
           "codename": "dubai"
+        },
+        {
+          "device": "Motorola Edge 30 Fusion / Edge S30 Pro",
+          "codename": "tundra"
         },
         {
           "device": "Motorola Moto E7 Plus / Lenovo K12",
@@ -453,26 +457,6 @@
       ]
     },
     {
-      "name": "Tejas Singh (tejas101k)",
-      "github": "tejas101k",
-      "currently_maintains": [
-        {
-          "device": "Xiaomi Poco X3 Pro",
-          "codename": "vayu"
-        },
-        {
-          "device": "Xiaomi Redmi Note 8/8T",
-          "codename": "ginkgo"
-        }
-      ],
-      "used_to_maintain": [
-        {
-          "device": "OnePlus 12R / Ace 3",
-          "codename": "aston"
-        }
-      ]
-    },
-    {
       "name": "hiroshi. (Superuser)",
       "github": "joshuah345",
       "currently_maintains": [
@@ -597,6 +581,24 @@
         {
           "device": "Xiaomi Redmi Turbo 3 / Poco F6",
           "codename": "peridot"
+        }
+      ]
+    },
+    {
+      "name": "Tejas Singh (tejas101k)",
+      "github": "tejas101k",
+      "used_to_maintain": [
+        {
+          "device": "OnePlus 12R / Ace 3",
+          "codename": "aston"
+        },
+        {
+          "device": "Xiaomi Poco X3 Pro",
+          "codename": "vayu"
+        },
+        {
+          "device": "Xiaomi Redmi Note 8/8T",
+          "codename": "ginkgo"
         }
       ]
     },

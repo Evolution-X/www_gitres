@@ -1,0 +1,22 @@
+[
+  {
+    "id": "banner_style_1",
+    "label": "Center punch-hole"
+  },
+  {
+    "id": "banner_style_2",
+    "label": "Left side punch-hole"
+  },
+  {
+    "id": "banner_style_3",
+    "label": "No cutout"
+  },
+  {
+    "id": "banner_style_4",
+    "label": "Left side pop-up camera"
+  },
+  {
+    "id": "banner_style_5",
+    "label": "Landscape tablet"
+  }
+]

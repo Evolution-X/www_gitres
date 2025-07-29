@@ -1,0 +1,14 @@
+[
+  {
+    "oem": "Google",
+    "bb_code": "[SIZE=6][B][COLOR=rgb(0, 96, 255)]G[/COLOR][COLOR=rgb(184, 49, 47)]o[/COLOR][COLOR=rgb(250, 197, 28)]o[/COLOR][COLOR=rgb(0, 96, 255)]g[/COLOR][COLOR=rgb(97, 189, 109)]l[/COLOR][COLOR=rgb(184, 49, 47)]e[/COLOR][/B][/SIZE]"
+  },
+  {
+    "oem": "OnePlus",
+    "bb_code": "[B][COLOR=rgb(226, 80, 65)][SIZE=6]OnePlus[/SIZE][/COLOR][/B]"
+  },
+  {
+    "oem": "Xiaomi",
+    "bb_code": "[B][COLOR=rgb(251, 160, 38)][SIZE=6]Xiaomi[/SIZE][/COLOR][/B]"
+  }
+]
