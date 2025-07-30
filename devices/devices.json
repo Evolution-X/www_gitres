@@ -513,6 +513,7 @@
   {
     "codename": "redwood",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
