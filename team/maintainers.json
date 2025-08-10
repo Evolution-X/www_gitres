@@ -491,6 +491,10 @@
       "github": "techyguyperplexable",
       "currently_maintains": [
         {
+          "device": "Samsung Galaxy S20 FE (Exynos)",
+          "codename": "r8s"
+        },
+        {
           "device": "Samsung Galaxy Tab S6 Lite",
           "codename": "gta4xl"
         },
