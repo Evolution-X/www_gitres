@@ -496,6 +496,12 @@
     ]
   },
   {
+    "codename": "r8s",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "raphael",
     "branches": [
       "bka",
