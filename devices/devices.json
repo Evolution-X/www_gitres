@@ -133,6 +133,7 @@
   {
     "codename": "cepheus",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
