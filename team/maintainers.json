@@ -533,6 +533,16 @@
           "codename": "a52sxq"
         }
       ]
+      },
+	{
+      "name": "Provasish Nandi",
+      "github": "provasish",
+      "currently_maintains": [
+        {
+          "device": "Realme GT NEO 3T",
+          "codename": "spartan"
+        }
+      ]
     }
   ],
   "inactive_maintainers": [
