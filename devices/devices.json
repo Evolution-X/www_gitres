@@ -597,6 +597,12 @@
     ]
   },
   {
+    "codename": "spartan",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "stone",
     "branches": [
       "udc"
