@@ -55,6 +55,7 @@
   {
     "codename": "beyond0lte",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -63,6 +64,7 @@
   {
     "codename": "beyond1lte",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -71,6 +73,7 @@
   {
     "codename": "beyond2lte",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -79,6 +82,7 @@
   {
     "codename": "beyondx",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -194,6 +198,7 @@
   {
     "codename": "d1",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -202,6 +207,7 @@
   {
     "codename": "d2s",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -210,6 +216,7 @@
   {
     "codename": "d2x",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
@@ -248,6 +255,7 @@
   {
     "codename": "f62",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc"
