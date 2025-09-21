@@ -553,6 +553,16 @@
           "codename": "cupid"
         }
       ]
+       },
+    {
+      "name": "intelgigabyte9299",
+      "github": "intelgigabyte",
+      "currently_maintains": [
+        {
+          "device": "Samsung Galaxy A71 4G",
+          "codename": "a71"
+        }
+      ]
     }
   ],
   "inactive_maintainers": [
