@@ -20,6 +20,12 @@
     ]
   },
   {
+    "codename": "a71",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "akita",
     "branches": [
       "bka",
