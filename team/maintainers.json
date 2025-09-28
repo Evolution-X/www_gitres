@@ -233,7 +233,7 @@
           "codename": "troika"
         },
         {
-          "device": "Motorola One Vision",
+          "device": "Motorola One Vision / P50",
           "codename": "kane"
         }
       ]
@@ -540,7 +540,7 @@
     },
     {
       "name": "Yogratdesuyo",
-      "github": "https://github.com/yograts-playground",
+      "github": "yograts-playground",
       "currently_maintains": [
         {
           "device": "redmi spes,spesn",
