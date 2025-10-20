@@ -479,6 +479,14 @@
         {
           "device": "Xiaomi Redmi 5 Plus",
           "codename": "vince"
+        },
+        {
+          "device": "Xiaomi Redmi Note 11 Pro Plus 5G / Poco X4 Pro 5G",
+          "codename": "veux"
+        },
+        {
+          "device": "Xiaomi Redmi Note 11S / Poco M4 Pro",
+          "codename": "fleur"
         }
       ]
     },
@@ -509,16 +517,6 @@
         {
           "device": "Motorola Moto Edge + 2023",
           "codename": "rtwo"
-        }
-      ]
-    },
-    {
-      "name": "Prathamk07",
-      "github": "Prathamk07",
-      "currently_maintains": [
-        {
-          "device": "Xiaomi Redmi Note 11 Pro Plus 5G / Poco X4 Pro 5G",
-          "codename": "veux"
         }
       ]
     },
@@ -705,6 +703,16 @@
         {
           "device": "Xiaomi Redmi Turbo 3 / Poco F6",
           "codename": "peridot"
+        }
+      ]
+    },
+    {
+      "name": "Prathamk07",
+      "github": "Prathamk07",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Redmi Note 11 Pro Plus 5G / Poco X4 Pro 5G",
+          "codename": "veux"
         }
       ]
     },
