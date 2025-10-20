@@ -303,6 +303,12 @@
     ]
   },
   {
+    "codename": "fleur",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "garnet",
     "branches": [
       "bka",
