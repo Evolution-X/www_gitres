@@ -802,6 +802,7 @@
   {
     "codename": "veux",
     "branches": [
+      "bka",
       "vic",
       "udc",
       "udc-vanilla"
