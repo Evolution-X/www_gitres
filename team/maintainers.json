@@ -299,7 +299,7 @@
       ]
     },
     {
-      "name": "Joey Huab",
+      "name": "Joey",
       "github": "joeyhuab",
       "currently_maintains": [
         {
@@ -311,8 +311,28 @@
           "codename": "raphael"
         },
         {
+          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
+          "codename": "marble"
+        }
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "currently_maintains": [
+        {
           "device": "Xiaomi Mi A1",
           "codename": "tissot"
+        }
+      ],
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Mi 11",
+          "codename": "venus"
+        },
+        {
+          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+          "codename": "raphael"
         },
         {
           "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
@@ -327,16 +347,6 @@
         {
           "device": "Xiaomi Pocophone F1",
           "codename": "beryllium"
-        }
-      ]
-    },
-    {
-      "name": "Lucifer",
-      "github": "kaustuv90",
-      "currently_maintains": [
-        {
-          "device": "Xiaomi 12 Pro",
-          "codename": "zeus"
         }
       ]
     },
@@ -487,6 +497,10 @@
         {
           "device": "Xiaomi Redmi Note 11S / Poco M4 Pro",
           "codename": "fleur"
+        },
+        {
+          "device": "Xiaomi Redmi Note 8 / Note 8T",
+          "codename": "ginkgo"
         }
       ]
     },
@@ -685,6 +699,16 @@
         {
           "device": "Xiaomi Mi 9t",
           "codename": "davinci"
+        }
+      ]
+    },
+    {
+      "name": "Lucifer",
+      "github": "kaustuv90",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi 12 Pro",
+          "codename": "zeus"
         }
       ]
     },
