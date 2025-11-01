@@ -305,6 +305,7 @@
   {
     "codename": "fleur",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -321,6 +322,7 @@
   {
     "codename": "ginkgo",
     "branches": [
+      "bka",
       "vic",
       "vic-vanilla",
       "udc",
@@ -443,6 +445,7 @@
   {
     "codename": "laurel_sprout",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -485,6 +488,7 @@
   {
     "codename": "miatoll",
     "branches": [
+      "bka",
       "vic"
     ]
   },
