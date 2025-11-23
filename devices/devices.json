@@ -83,6 +83,7 @@
     "codename": "beyond0lte",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -92,6 +93,7 @@
     "codename": "beyond1lte",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -101,6 +103,7 @@
     "codename": "beyond2lte",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -110,6 +113,7 @@
     "codename": "beyondx",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -145,6 +149,8 @@
   {
     "codename": "bramble",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla"
     ]
@@ -233,6 +239,7 @@
     "codename": "d1",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -242,6 +249,7 @@
     "codename": "d2s",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -251,6 +259,7 @@
     "codename": "d2x",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -290,6 +299,7 @@
     "codename": "f62",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -609,6 +619,8 @@
   {
     "codename": "redfin",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla"
     ]
@@ -723,6 +735,8 @@
   {
     "codename": "sunfish",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
