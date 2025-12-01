@@ -210,6 +210,8 @@
   {
     "codename": "cmi",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla"
     ]
@@ -598,7 +600,8 @@
   {
     "codename": "r8s",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -796,6 +799,8 @@
   {
     "codename": "umi",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla"
     ]
