@@ -356,6 +356,20 @@
     ]
   },
   {
+    "codename": "gts4lv",
+    "branches": [
+      "vic",
+      "vic-vanilla"
+    ]
+  },
+  {
+    "codename": "gts4lvwifi",
+    "branches": [
+      "vic",
+      "vic-vanilla"
+    ]
+  },
+  {
     "codename": "guacamole",
     "branches": [
       "vic"
