@@ -49,6 +49,20 @@
       ]
     },
     {
+      "name": "AidanWarner97",
+      "github": "AidanWarner97",
+      "currently_maintains": [
+        {
+          "device": "Samsung Galaxy Tab S5e (LTE)",
+          "codename": "gts4lv"
+        },
+        {
+          "device": "Samsung Galaxy Tab S5e (Wi-Fi)",
+          "codename": "gts4lvwifi"
+        }
+      ]
+    },
+    {
       "name": "Anierin Bliss",
       "github": "AnierinBliss",
       "currently_maintains": [
