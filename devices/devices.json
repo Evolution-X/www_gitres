@@ -233,6 +233,8 @@
   {
     "codename": "cupid",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "udc"
     ]
