@@ -484,9 +484,17 @@
     ]
   },
   {
+    "codename": "lemonade",
+    "branches": [
+      "bka",
+      "bka-vanilla"
+    ]
+  },
+  {
     "codename": "lemonadep",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
