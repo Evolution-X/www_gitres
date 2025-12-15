@@ -285,6 +285,10 @@
       "github": "TechPanelGM",
       "currently_maintains": [
         {
+          "device": "OnePlus 9",
+          "codename": "lemonade"
+        },
+        {
           "device": "OnePlus 9 Pro",
           "codename": "lemonadep"
         },
