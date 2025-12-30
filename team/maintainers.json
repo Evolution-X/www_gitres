@@ -151,6 +151,16 @@
       ]
     },
     {
+      "name": "Bera (nyxalune)",
+      "github": "nyxalune",
+      "currently_maintains": [
+        {
+          "device": "Nothing Phone (1)",
+          "codename": "Spacewar"
+        }
+      ]
+    },
+    {
       "name": "CSSABLACK",
       "github": "czarsuperstar",
       "currently_maintains": [
@@ -307,6 +317,10 @@
         {
           "device": "Xiaomi Mi 10 Pro",
           "codename": "cmi"
+        },
+        {
+          "device": "Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra",
+          "codename": "apollon"
         }
       ]
     },
