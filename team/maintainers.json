@@ -339,30 +339,6 @@
       ]
     },
     {
-      "name": "Joey Huab",
-      "github": "joeyhuab",
-      "currently_maintains": [
-        {
-          "device": "Xiaomi Mi A1",
-          "codename": "tissot"
-        }
-      ],
-      "used_to_maintain": [
-        {
-          "device": "Xiaomi Mi 11",
-          "codename": "venus"
-        },
-        {
-          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
-          "codename": "raphael"
-        },
-        {
-          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
-          "codename": "marble"
-        }
-      ]
-    },
-    {
       "name": "Le Hong Duc (tedomi2705)",
       "github": "tedomi2705",
       "currently_maintains": [
@@ -721,6 +697,28 @@
         {
           "device": "Xiaomi Mi 9t",
           "codename": "davinci"
+        }
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Mi 11",
+          "codename": "venus"
+        },
+        {
+          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+          "codename": "raphael"
+        },
+        {
+          "device": "Xiaomi Mi A1",
+          "codename": "tissot"
+        },
+        {
+          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
+          "codename": "marble"
         }
       ]
     },
