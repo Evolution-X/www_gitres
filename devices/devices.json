@@ -9,6 +9,7 @@
     "codename": "Pong",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "udc",
       "udc-vanilla"
@@ -137,6 +138,7 @@
     "codename": "bluejay",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -198,6 +200,7 @@
     "codename": "cepheus",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "udc"
     ]
@@ -370,6 +373,7 @@
     "codename": "gta4xlwifi",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -592,6 +596,7 @@
     "codename": "oriole",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -660,6 +665,7 @@
     "codename": "raven",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -769,6 +775,7 @@
     "codename": "spes",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla"
     ]
