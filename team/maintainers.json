@@ -295,6 +295,18 @@
       "github": "TechPanelGM",
       "currently_maintains": [
         {
+          "device": "Google Pixel 6",
+          "codename": "oriole"
+        },
+        {
+          "device": "Google Pixel 6 Pro",
+          "codename": "raven"
+        },
+        {
+          "device": "Google Pixel 6a",
+          "codename": "bluejay"
+        },
+        {
           "device": "OnePlus 9",
           "codename": "lemonade"
         },
@@ -338,6 +350,30 @@
       "name": "Joey",
       "github": "joeyhuab",
       "currently_maintains": [
+        {
+          "device": "Xiaomi Mi 11",
+          "codename": "venus"
+        },
+        {
+          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+          "codename": "raphael"
+        },
+        {
+          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
+          "codename": "marble"
+        }
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Mi A1",
+          "codename": "tissot"
+        }
+      ],
+      "used_to_maintain": [
         {
           "device": "Xiaomi Mi 11",
           "codename": "venus"
@@ -711,28 +747,6 @@
         {
           "device": "Xiaomi Mi 9t",
           "codename": "davinci"
-        }
-      ]
-    },
-    {
-      "name": "Joey Huab",
-      "github": "joeyhuab",
-      "used_to_maintain": [
-        {
-          "device": "Xiaomi Mi 11",
-          "codename": "venus"
-        },
-        {
-          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
-          "codename": "raphael"
-        },
-        {
-          "device": "Xiaomi Mi A1",
-          "codename": "tissot"
-        },
-        {
-          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
-          "codename": "marble"
         }
       ]
     },
