@@ -311,7 +311,7 @@
           "codename": "lemonade"
         },
         {
-          "device": "OnePlus 9 Pro",
+          "device": "Oneplus 9 Pro",
           "codename": "lemonadep"
         },
         {
@@ -333,6 +333,10 @@
         {
           "device": "Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra",
           "codename": "apollon"
+        },
+        {
+          "device": "Xiaomi Redmi Note 10 Pro / Max",
+          "codename": "sweet"
         }
       ]
     },
@@ -431,16 +435,6 @@
         {
           "device": "OnePlus 9R",
           "codename": "lemonades"
-        }
-      ]
-    },
-    {
-      "name": "Mharc Bedielon Duller (therealmharc)",
-      "github": "therealmharc",
-      "currently_maintains": [
-        {
-          "device": "Xiaomi Redmi Note 10 Pro / Max",
-          "codename": "sweet"
         }
       ]
     },
@@ -656,6 +650,22 @@
       "name": "nhansp",
       "github": "nhansp",
       "currently_maintains": [
+        {
+          "device": "Google Pixel 7",
+          "codename": "panther"
+        },
+        {
+          "device": "Google Pixel 7 Pro",
+          "codename": "cheetah"
+        },
+        {
+          "device": "Google Pixel 7a",
+          "codename": "lynx"
+        },
+        {
+          "device": "Google Pixel Fold",
+          "codename": "felix"
+        },
         {
           "device": "Xiaomi Mi 9",
           "codename": "cepheus"
