@@ -800,6 +800,7 @@
     "codename": "sweet",
     "branches": [
       "bka",
+      "bka-vanilla",
       "udc"
     ]
   },
