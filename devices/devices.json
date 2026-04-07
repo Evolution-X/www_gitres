@@ -222,6 +222,7 @@
     "codename": "cheetah",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -300,9 +301,40 @@
     ]
   },
   {
+    "codename": "dm1q",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
+    "codename": "dm2q",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
+    "codename": "dm3q",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
+    "codename": "dodge",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "dubai",
     "branches": [
       "vic"
+    ]
+  },
+  {
+    "codename": "duchamp",
+    "branches": [
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -332,6 +364,7 @@
     "codename": "felix",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -534,6 +567,7 @@
     "codename": "lynx",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -604,6 +638,7 @@
     "codename": "panther",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -622,6 +657,7 @@
   {
     "codename": "peridot",
     "branches": [
+      "bka",
       "vic"
     ]
   },
@@ -768,6 +804,7 @@
     "codename": "spartan",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -808,6 +845,7 @@
     "codename": "tangorpro",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
