@@ -46,6 +46,7 @@
     "codename": "akita",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -132,6 +133,13 @@
       "vic",
       "vic-vanilla",
       "udc"
+    ]
+  },
+  {
+    "codename": "blazer",
+    "branches": [
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -376,6 +384,13 @@
     ]
   },
   {
+    "codename": "frankel",
+    "branches": [
+      "bka",
+      "bka-vanilla"
+    ]
+  },
+  {
     "codename": "garnet",
     "branches": [
       "bka",
@@ -481,6 +496,7 @@
     "codename": "husky",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
@@ -608,6 +624,13 @@
     ]
   },
   {
+    "codename": "mustang",
+    "branches": [
+      "bka",
+      "bka-vanilla"
+    ]
+  },
+  {
     "codename": "nemo",
     "branches": [
       "bka"
@@ -684,6 +707,13 @@
   },
   {
     "codename": "r8s",
+    "branches": [
+      "bka",
+      "bka-vanilla"
+    ]
+  },
+  {
+    "codename": "rango",
     "branches": [
       "bka",
       "bka-vanilla"
@@ -789,6 +819,7 @@
     "codename": "shiba",
     "branches": [
       "bka",
+      "bka-vanilla",
       "vic"
     ]
   },
