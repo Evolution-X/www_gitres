@@ -83,6 +83,12 @@
     ]
   },
   {
+    "codename": "benz",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "berlna",
     "branches": [
       "vic"
