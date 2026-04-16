@@ -249,6 +249,22 @@
       "github": "TechPanelGM",
       "currently_maintains": [
         {
+          "device": "Google Pixel 10",
+          "codename": "frankel"
+        },
+        {
+          "device": "Google Pixel 10 Pro",
+          "codename": "blazer"
+        },
+        {
+          "device": "Google Pixel 10 Pro Fold",
+          "codename": "rango"
+        },
+        {
+          "device": "Google Pixel 10 Pro XL",
+          "codename": "mustang"
+        },
+        {
           "device": "Google Pixel 6",
           "codename": "oriole"
         },
@@ -259,6 +275,18 @@
         {
           "device": "Google Pixel 6a",
           "codename": "bluejay"
+        },
+        {
+          "device": "Google Pixel 8",
+          "codename": "shiba"
+        },
+        {
+          "device": "Google Pixel 8 Pro",
+          "codename": "husky"
+        },
+        {
+          "device": "Google Pixel 8a",
+          "codename": "akita"
         },
         {
           "device": "OnePlus 9",
@@ -507,18 +535,6 @@
       "github": "osm1019",
       "currently_maintains": [
         {
-          "device": "Google Pixel 8",
-          "codename": "shiba"
-        },
-        {
-          "device": "Google Pixel 8 Pro",
-          "codename": "husky"
-        },
-        {
-          "device": "Google Pixel 8a",
-          "codename": "akita"
-        },
-        {
           "device": "Google Pixel 9 Pro",
           "codename": "caiman"
         },
@@ -532,6 +548,18 @@
         }
       ],
       "used_to_maintain": [
+        {
+          "device": "Google Pixel 8",
+          "codename": "shiba"
+        },
+        {
+          "device": "Google Pixel 8 Pro",
+          "codename": "husky"
+        },
+        {
+          "device": "Google Pixel 8a",
+          "codename": "akita"
+        },
         {
           "device": "Motorola Moto Edge + 2023",
           "codename": "rtwo"
