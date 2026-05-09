@@ -1,5 +1,12 @@
 [
   {
+    "codename": "LH7n",
+    "branches": [
+      "bka",
+      "bka-vanilla"
+    ]
+  },
+  {
     "codename": "PL2",
     "branches": [
       "udc"
@@ -639,7 +646,8 @@
   {
     "codename": "nemo",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -793,7 +801,8 @@
   {
     "codename": "salaa",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -805,6 +814,7 @@
   {
     "codename": "sapphire",
     "branches": [
+      "bka-vanilla",
       "udc"
     ]
   },
