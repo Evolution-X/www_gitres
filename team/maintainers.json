@@ -125,12 +125,32 @@
       ]
     },
     {
+      "name": "CRAZY_JOKER67",
+      "github": "Andreyka445",
+      "currently_maintains": [
+        {
+          "device": "TECNO Pova 5",
+          "codename": "LH7n"
+        }
+      ]
+    },
+    {
       "name": "CSSABLACK",
       "github": "czarsuperstar",
       "currently_maintains": [
         {
           "device": "Xiaomi Mi 9 Lite",
           "codename": "pyxis"
+        }
+      ]
+    },
+    {
+      "name": "CrackedPotato",
+      "github": "crackedpotato007",
+      "currently_maintains": [
+        {
+          "device": "OnePlus Nord CE4",
+          "codename": "benz"
         }
       ]
     },
@@ -373,6 +393,16 @@
         {
           "device": "Xiaomi Pocophone F1",
           "codename": "beryllium"
+        }
+      ]
+    },
+    {
+      "name": "Liekoo",
+      "github": "Liekoo",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 13 4G/NFC",
+          "codename": "sapphire"
         }
       ]
     },
