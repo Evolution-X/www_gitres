@@ -639,7 +639,8 @@
   {
     "codename": "nemo",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -793,7 +794,8 @@
   {
     "codename": "salaa",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
