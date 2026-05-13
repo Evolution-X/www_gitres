@@ -149,13 +149,6 @@
     ]
   },
   {
-    "codename": "blazer",
-    "branches": [
-      "bka",
-      "bka-vanilla"
-    ]
-  },
-  {
     "codename": "bluejay",
     "branches": [
       "bka",
@@ -397,13 +390,6 @@
     ]
   },
   {
-    "codename": "frankel",
-    "branches": [
-      "bka",
-      "bka-vanilla"
-    ]
-  },
-  {
     "codename": "garnet",
     "branches": [
       "bka",
@@ -637,13 +623,6 @@
     ]
   },
   {
-    "codename": "mustang",
-    "branches": [
-      "bka",
-      "bka-vanilla"
-    ]
-  },
-  {
     "codename": "nemo",
     "branches": [
       "bka",
@@ -721,13 +700,6 @@
   },
   {
     "codename": "r8s",
-    "branches": [
-      "bka",
-      "bka-vanilla"
-    ]
-  },
-  {
-    "codename": "rango",
     "branches": [
       "bka",
       "bka-vanilla"
