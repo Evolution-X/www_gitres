@@ -877,6 +877,7 @@
   {
     "codename": "tissot",
     "branches": [
+      "bka",
       "udc"
     ]
   },
