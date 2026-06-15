@@ -317,19 +317,22 @@
   {
     "codename": "dm1q",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
     "codename": "dm2q",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
     "codename": "dm3q",
     "branches": [
-      "bka"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
