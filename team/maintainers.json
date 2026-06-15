@@ -155,6 +155,16 @@
       ]
     },
     {
+      "name": "Danil (MT6897A)",
+      "github": "MT6897A",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi POCO X6 Pro 5G / Redmi K70E",
+          "codename": "duchamp"
+        }
+      ]
+    },
+    {
       "name": "Deivid Ignacio Parra (Deivid21)",
       "github": "Deivid21",
       "currently_maintains": [
@@ -357,28 +367,8 @@
           "codename": "raphael"
         },
         {
-          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
-          "codename": "marble"
-        }
-      ]
-    },
-    {
-      "name": "Joey Huab",
-      "github": "joeyhuab",
-      "currently_maintains": [
-        {
           "device": "Xiaomi Mi A1",
           "codename": "tissot"
-        }
-      ],
-      "used_to_maintain": [
-        {
-          "device": "Xiaomi Mi 11",
-          "codename": "venus"
-        },
-        {
-          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
-          "codename": "raphael"
         },
         {
           "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
@@ -411,7 +401,7 @@
       "github": "MT6897A",
       "currently_maintains": [
         {
-          "device": "Xiaomi POCO X6 Pro 5G / Redmi K70E",
+          "device": "Xiaomi duchamp",
           "codename": "duchamp"
         }
       ]
@@ -645,7 +635,7 @@
           "codename": "dm1q"
         },
         {
-          "device": "Samsung Galaxy S23 Plus",
+          "device": "Samsung Galaxy S23",
           "codename": "dm2q"
         },
         {
@@ -825,6 +815,24 @@
         {
           "device": "Xiaomi Mi 11X Pro/Mi 11i/Redmi K40 Pro+",
           "codename": "haydn"
+        }
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "used_to_maintain": [
+        {
+          "device": "Xiaomi Mi 11",
+          "codename": "venus"
+        },
+        {
+          "device": "Xiaomi Mi 9T Pro / Redmi K20 Pro",
+          "codename": "raphael"
+        },
+        {
+          "device": "Xiaomi Poco F5 / Redmi Note 12 Turbo",
+          "codename": "marble"
         }
       ]
     },
