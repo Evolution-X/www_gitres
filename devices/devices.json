@@ -37,6 +37,13 @@
     ]
   },
   {
+    "codename": "Tetris",
+    "branches": [
+        "bka",
+        "bka-vanilla"
+    ]
+  },
+  {
     "codename": "a52sxq",
     "branches": [
       "bka"
