@@ -699,6 +699,16 @@
           "codename": "peridot"
         }
       ]
+    },
+    {
+      "name": "SODA",
+      "github": "S-O-D-A",
+      "currently_maintains": [
+        {
+          "device": "Nothing CMF Phone 1",
+          "codename": "Tetris"
+        }
+      ]
     }
   ],
   "inactive_maintainers": [
