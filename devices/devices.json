@@ -599,6 +599,7 @@
   {
     "codename": "marble",
     "branches": [
+      "cnb",
       "bka",
       "vic",
       "udc"
