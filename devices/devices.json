@@ -719,6 +719,7 @@
   {
     "codename": "raphael",
     "branches": [
+      "cnb",
       "bka",
       "vic",
       "udc"
