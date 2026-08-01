@@ -39,8 +39,8 @@
   {
     "codename": "Tetris",
     "branches": [
-        "bka",
-        "bka-vanilla"
+      "bka",
+      "bka-vanilla"
     ]
   },
   {
@@ -634,6 +634,12 @@
     ]
   },
   {
+    "codename": "mumba",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "nemo",
     "branches": [
       "bka",
@@ -651,6 +657,12 @@
     "codename": "ocean",
     "branches": [
       "vic"
+    ]
+  },
+  {
+    "codename": "op6893",
+    "branches": [
+      "bka"
     ]
   },
   {
