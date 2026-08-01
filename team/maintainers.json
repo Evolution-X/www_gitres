@@ -397,6 +397,16 @@
       ]
     },
     {
+      "name": "Liwhy",
+      "github": "liwhy1",
+      "currently_maintains": [
+        {
+          "device": "OnePlus Nord 2 5G / X7 Max 5G",
+          "codename": "op6893"
+        }
+      ]
+    },
+    {
       "name": "MT6897A",
       "github": "MT6897A",
       "currently_maintains": [
@@ -607,6 +617,16 @@
       ]
     },
     {
+      "name": "SODA",
+      "github": "S-O-D-A",
+      "currently_maintains": [
+        {
+          "device": "Nothing CMF Phone 1",
+          "codename": "Tetris"
+        }
+      ]
+    },
+    {
       "name": "Shahid Shamim",
       "github": "theshaenix",
       "currently_maintains": [
@@ -627,6 +647,16 @@
       ]
     },
     {
+      "name": "ZaraKnYu",
+      "github": "zaraknyu",
+      "currently_maintains": [
+        {
+          "device": "motorola Motorola G57 Power / Motorola G100s CN",
+          "codename": "mumba"
+        }
+      ]
+    },
+    {
       "name": "cola2261",
       "github": "cola2261",
       "currently_maintains": [
@@ -635,7 +665,7 @@
           "codename": "dm1q"
         },
         {
-          "device": "Samsung Galaxy S23",
+          "device": "Samsung Galaxy S23 Plus",
           "codename": "dm2q"
         },
         {
@@ -697,16 +727,6 @@
         {
           "device": "Xiaomi Poco F6 5G / Redmi Turbo 3",
           "codename": "peridot"
-        }
-      ]
-    },
-    {
-      "name": "SODA",
-      "github": "S-O-D-A",
-      "currently_maintains": [
-        {
-          "device": "Nothing CMF Phone 1",
-          "codename": "Tetris"
         }
       ]
     }
