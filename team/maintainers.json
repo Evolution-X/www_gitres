@@ -987,6 +987,16 @@
           "codename": "cupid"
         }
       ]
+    },
+    {
+      "name": "Kiy0",
+      "github": "kiy017",
+      "currently_maintains": [
+        {
+          "device": "LG v60 ThinQ 5G",
+          "codename": "timelm"
+        }
+      ]
     }
   ]
 }
