@@ -893,6 +893,13 @@
     ]
   },
   {
+    "codename": "taoyao",
+    "branches": [
+      "bka",
+      "bka-vanilla"
+    ]
+  },
+  {
     "codename": "tegu",
     "branches": [
       "bka"
