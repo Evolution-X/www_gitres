@@ -997,6 +997,16 @@
           "codename": "timelm"
         }
       ]
+    },
+    {
+      "name": "ammarbahtiarasli",
+      "github": "ammarbahtiarasli",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi 12 Lite",
+          "codename": "taoyao"
+        }
+      ]
     }
   ]
 }
