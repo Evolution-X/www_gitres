@@ -964,6 +964,7 @@
   {
     "codename": "venus",
     "branches": [
+      "cnb",
       "bka",
       "vic",
       "udc"
