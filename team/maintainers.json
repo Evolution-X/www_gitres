@@ -377,6 +377,16 @@
       ]
     },
     {
+      "name": "Kiyomiyuki",
+      "github": "kiy017",
+      "currently_maintains": [
+        {
+          "device": "LG V60 ThinQ 5G",
+          "codename": "timelm"
+        }
+      ]
+    },
+    {
       "name": "Le Hong Duc (tedomi2705)",
       "github": "tedomi2705",
       "currently_maintains": [
@@ -651,8 +661,18 @@
       "github": "zaraknyu",
       "currently_maintains": [
         {
-          "device": "motorola Motorola G57 Power / Motorola G100s CN",
+          "device": "motorola moto G57 Power / Motorola G100s CN",
           "codename": "mumba"
+        }
+      ]
+    },
+    {
+      "name": "ammarbahtiarasli",
+      "github": "ammarbahtiarasli",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi 12 Lite",
+          "codename": "taoyao"
         }
       ]
     },
@@ -985,26 +1005,6 @@
         {
           "device": "Xiaomi 12",
           "codename": "cupid"
-        }
-      ]
-    },
-    {
-      "name": "Kiy0",
-      "github": "kiy017",
-      "currently_maintains": [
-        {
-          "device": "LG v60 ThinQ 5G",
-          "codename": "timelm"
-        }
-      ]
-    },
-    {
-      "name": "ammarbahtiarasli",
-      "github": "ammarbahtiarasli",
-      "currently_maintains": [
-        {
-          "device": "Xiaomi 12 Lite",
-          "codename": "taoyao"
         }
       ]
     }
