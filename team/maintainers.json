@@ -53,54 +53,6 @@
       ]
     },
     {
-      "name": "Anierin Bliss",
-      "github": "AnierinBliss",
-      "currently_maintains": [
-        {
-          "device": "Google Pixel 9 Pro Fold",
-          "codename": "comet"
-        },
-        {
-          "device": "Google Pixel 9a",
-          "codename": "tegu"
-        }
-      ],
-      "used_to_maintain": [
-        {
-          "device": "Google Pixel 6",
-          "codename": "oriole"
-        },
-        {
-          "device": "Google Pixel 6 Pro",
-          "codename": "raven"
-        },
-        {
-          "device": "Google Pixel 6a",
-          "codename": "bluejay"
-        },
-        {
-          "device": "Google Pixel 7",
-          "codename": "panther"
-        },
-        {
-          "device": "Google Pixel 7 Pro",
-          "codename": "cheetah"
-        },
-        {
-          "device": "Google Pixel 7a",
-          "codename": "lynx"
-        },
-        {
-          "device": "Google Pixel Fold",
-          "codename": "felix"
-        },
-        {
-          "device": "Google Pixel Tablet",
-          "codename": "tangorpro"
-        }
-      ]
-    },
-    {
       "name": "Ansh (EvilAnsh)",
       "github": "EvilAnsh",
       "currently_maintains": [
