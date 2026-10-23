@@ -1,10 +1,9 @@
-[CENTER]
-${manufacturer_name} ${device_name}
-${codenames}
+[CENTER][B][COLOR=rgb(251, 160, 38)][SIZE=6]Xiaomi[/SIZE][/COLOR][/B] [COLOR=rgb(0, 96, 255)][B][SIZE=6]POCO F5 / Redmi Note 12 Turbo[/SIZE]
+[SIZE=6][marble/marblein][/SIZE][/B][/COLOR]
 
-[IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/${banner_image}[/IMG]
+[URL='https://evolution-x.org/'][IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/Banner.png[/IMG][/URL]
 
-[SIZE=5][B][COLOR=#0060FF][B]Pixel UI, customization and more, we are Evolution X![/B][/COLOR][/B][/SIZE]
+[SIZE=5][B][COLOR=rgb(0, 96, 255)][B]Pixel UI, customization and more, we are Evolution X![/B][/COLOR][/B][/SIZE]
 
 [URL='https://xdaforums.com/m/joeyhuab.4936496/']Joey Huab[/URL] - Founder/Lead Developer
 [URL='https://xdaforums.com/m/anierinb.7125966/']Anierin Bliss[/URL] - Co-Founder/Co-Developer
@@ -12,54 +11,59 @@ ${codenames}
 
 Check out our [URL='https://evolution-x.org/']website[/URL]!
 
-[IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/features.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/features.png[/IMG]
 
-[URL='https://evolution-x.org/features']Added features[/URL]
+[URL='https://github.com/Evolution-X/XDA/blob/udc/features.md']Added features[/URL]
 
-[IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/known_issues.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/known-issues.png[/IMG]
 
 [SIZE=5][B][COLOR=red]DO NOT FLASH GAPPS, THEY ARE ALREADY INCLUDED[/COLOR][/B][/SIZE]
 
-[B][IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/installation.png[/IMG][/B]
+[IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/installation.png[/IMG]
 
+[SPOILER]
 [SIZE=5][B][COLOR=rgb(0, 96, 255)][SIZE=5][B]First Time Install[/B][/SIZE][/COLOR][/B][/SIZE]
-${first_time_install_instructions}
+[COLOR=rgb(251, 160, 38)](Note: The latest no longer includes firmware, flash the latest HOS3 FW of your device region first)[/COLOR]
+1. Download boot, dtbo, vendor_boot & rom for your device from [URL='https://sourceforge.net/projects/evolution-x/files/marble/15']sourceforge[/URL]
+2. Follow the guide at [URL]https://xdaforums.com/t/closed-rom-14-0-marble-official-evolution-x-11-13-24.4640655/post-89539346[/URL]
+3 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
+4. Reboot to system & #KeepEvolving
 
 [SIZE=5][B][COLOR=rgb(0, 96, 255)]Update[/COLOR][/B][/SIZE]
 [SIZE=3]1. Reboot to recovery
-2. While in recovery, navigate to [B]Apply update[/B] → [B]Apply from ADB[/B]
-3. [ICODE]adb sideload rom.zip[/ICODE] (replace "rom" with  actual filename)[/SIZE]
+2. While in recovery, navigate to Apply update -> Apply from ADB
+3. adb sideload rom.zip (replace "rom" with  actual filename)[/SIZE]
 4 (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
 [SIZE=3]5. Reboot to system & #KeepEvolving
 
 [COLOR=rgb(0, 96, 255)][SIZE=5][B]OTA[/B][/SIZE][/COLOR][/SIZE]
 [SIZE=3]1. Check for update. If available, select "Download and install" (approx 10-15 min)
 2. Reboot & #KeepEvolving[/SIZE]
+[/SPOILER]
 
-[URL='${donation_url}'][IMG width="200px" height="180px"]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/donate_to_me.png[/IMG][/URL][URL='https://discord.gg/3qbSZHx'][IMG width="200px" height="180px"]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/official_chat.png[/IMG][/URL]
+[URL='https://linktr.ee/joeyhuab'][IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/donate.png[/IMG][/URL][URL='https://discord.gg/3qbSZHx'][IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/chat.png[/IMG][/URL][/CENTER]
 
 [TABLE]
 [TR]
-[TD][IMG]https://raw.githubusercontent.com/Evolution-X/www_gitres/refs/heads/main/xda/assets/source.png[/IMG][/TD]
+[TD][IMG]https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/source.png[/IMG][/TD]
 [/TR]
 [TR]
-[TD][B][COLOR=rgb(97, 189, 109)]Android version[/COLOR]:[/B] [URL='${tree_url}']${android_version}[/URL][/TD]
+[TD][B][COLOR=rgb(97, 189, 109)]Android version[/COLOR]:[/B] [URL='https://github.com/Evolution-X/manifest/tree/cnb']17[/URL][/TD]
 [/TR]
 [TR]
-[TD][B][COLOR=rgb(184, 49, 47)]Security patch level[/COLOR]:[/B] [URL='${security_patch_url}']${security_patch_level_date}[/URL][/TD]
+[TD][B][COLOR=rgb(184, 49, 47)]Security patch level[/COLOR]:[/B] [URL='https://source.android.com/docs/security/bulletin/2026/2026-10-01']October 2026[/URL][/TD]
 [/TR]
 [TR]
-[TD][B][COLOR=rgb(41, 105, 176)]Build author(s)[/COLOR]:[/B] 
-${build_author}
-[/TD]
+[TD][B][COLOR=rgb(41, 105, 176)]Build author[/COLOR]:[/B] [URL='https://xdaforums.com/m/joeyhuab.4936496/']Joey Huab[/URL][/TD]
 [/TR]
 [TR]
-[TD][B][COLOR=rgb(65, 168, 95)]Kernel Source(s)[/COLOR]:[/B]
-${kernel_source_url}
-[/TD]
+[TD][B][COLOR=rgb(65, 168, 95)]Kernel Source[/COLOR]:[/B] [URL='https://github.com/LineageOS/android_kernel_xiaomi_sm8450/commits/lineage-23.2']sm8450 kernel[/URL][/TD]
 [/TR]
 [TR]
-[TD][B][COLOR=rgb(41, 105, 176)]ROM Developer(s)[/COLOR]:[/B] [URL='https://xdaforums.com/member.php?u=4936496']Joey Huab[/URL] & [URL='https://xdaforums.com/m/anierinb.7125966/']Anierin Bliss[/URL][/TD]
+[TD][COLOR=rgb(243, 121, 52)][B]Clang version:[/B] 17.0.2[/COLOR][/TD]
+[/TR]
+[TR]
+[TD][B][COLOR=rgb(41, 105, 176)]ROM Developer[/COLOR]:[/B] [URL='https://xdaforums.com/member.php?u=4936496']Joey Huab[/URL][/TD]
 [/TR]
 [TR]
 [TD][B][COLOR=rgb(97, 189, 109)]Source code[/COLOR]:[/B] [URL]https://github.com/Evolution-X[/URL][/TD]
