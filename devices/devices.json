@@ -87,6 +87,7 @@
   {
     "codename": "bathena",
     "branches": [
+      "cnb",
       "vic"
     ]
   },
@@ -402,6 +403,8 @@
   {
     "codename": "garnet",
     "branches": [
+      "cnb",
+      "cnb-vanilla",
       "bka",
       "bka-vanilla",
       "vic",
